@@ -1,4 +1,28 @@
-D 'DEA': Data envelopment analysis
+D 'cea': Introduction to cost-effectiveness analysis Use cea With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F _cea_check_tvar_levels.ado
+F _cea_header.ado
+F _cea_parse_tvar.ado
+F _get_format.ado
+F cea.ado
+F cea.sthlp
+F cea_display.ado
+F cea_eq2.ado
+F cea_estat.ado
+F cea_mean.ado
+F cea_means.sthlp
+F cea_models.sthlp
+F cea_postestimation.sthlp
+F ceagr.ado
+F ceagra.ado
+F ceagrap.ado
+F ceagraph.ado
+F ceagraph_accept.ado
+F ceagraph_accept.sthlp
+F ceagraph_scatter.ado
+F ceagraph_scatter.sthlp
+F ceai.ado
+F ceai.sthlp
+F ceai_display.ado
+F estat_fieller.sthlp
+F lcea.mlib
