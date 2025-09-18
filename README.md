@@ -3,6 +3,8 @@ Introduction to cost-effectiveness analysis Use cea With STATA 19
 
 Trial-based cost-effectiveness analysis Use cea With STATA 19
 
+https://www.youtube.com/watch?v=Pb2mcOBTbRg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
